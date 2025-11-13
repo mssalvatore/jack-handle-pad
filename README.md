@@ -1,6 +1,6 @@
 # Jack Handle Pad
 
-![Jack Handle Pad](./images/jack_handle_pad.jpg)
+![Jack Handle Pad](./images/jack-handle-pad.jpg)
 
 The Daytona 3-ton floor jack from Harbor Freight does not come with adequate
 padding on the handle. If the metal handle were to bump into a car's body, it
