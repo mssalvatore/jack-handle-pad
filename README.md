@@ -1,7 +1,5 @@
 # Jack Handle Pad
 
-![Jack Handle Pad](./images/jack-handle-pad.jpg)
-
 The Daytona 3-ton floor jack from Harbor Freight does not come with adequate
 padding on the handle. If the metal handle were to bump into a car's body, it
 could leave lasting scratches or chips in the paint. To remedy this, an
@@ -16,6 +14,8 @@ the handle to be assembled or disassembled while the padding stays in place.
 
 This model can be downloaded from
 [https://www.printables.com/model/1479400-harbor-freight-daytona-jack-handle-pad](https://www.printables.com/model/1479400-harbor-freight-daytona-jack-handle-pad.
+
+![Jack Handle Pad](./images/jack-handle-pad.jpg)
 
 ## Recommended print settings
 
