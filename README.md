@@ -14,6 +14,9 @@ could make it difficult to assemble or disassemble the 2-piece handle. The
 model provided here has a cutout for the spring-loaded button pin, which allows
 the handle to be assembled or disassembled while the padding stays in place.
 
+This model can be downloaded from
+[https://www.printables.com/model/1479400-harbor-freight-daytona-jack-handle-pad](https://www.printables.com/model/1479400-harbor-freight-daytona-jack-handle-pad.
+
 ## Recommended print settings
 
 - Material: TPU or other flexible filament
